@@ -1,4 +1,6 @@
-cp backup.sh /media/meso/858E-17F7/Backup/
+# 858E-17F7 current USB name
+
+cp backup-to-usb.sh /media/meso/858E-17F7/Backup/
 
 mysqldump -u root -p --all-databases > alldb.sql
 
