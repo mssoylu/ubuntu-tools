@@ -33,7 +33,7 @@ apt install mysql-server
 ```
 
 ```bash
-mysql_secure_install
+mysql_secure_installation
 ```
 
 ```bash
